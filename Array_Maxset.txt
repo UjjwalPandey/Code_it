@@ -19,7 +19,6 @@ SOLUTION:
 /**
  * @input A : Integer array
  * @input n1 : Integer array's ( A ) length
- * 
  * @Output Integer array. You need to malloc memory, and fill the length in length_of_array
  */
 int* maxset(int* A, int n1, int *length_of_array) {
