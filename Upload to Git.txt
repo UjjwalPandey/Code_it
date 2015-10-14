@@ -1,0 +1,17 @@
+1. Create a repository on GitHub.
+
+2. Create a folder in Git Local.
+
+3. Put your file into that Folder.
+
+4. Open Git-CMD and reach upto local project repository.
+
+5. git init
+
+6. git add .
+
+7. git commit -m "Commit Message"
+
+8. git remote add origin "remote repository URL"
+
+9. git push origin master.
