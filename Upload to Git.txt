@@ -4,7 +4,7 @@
 
 3. Put your file into that Folder.
 
-4. Open Git-CMD and reach upto local project repository.
+4. Open Git-CLI and reach upto local project repository.
 
 5. git init
 
