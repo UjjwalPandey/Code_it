@@ -1,4 +1,4 @@
-Problem:
+/*Problem:
 https://www.interviewbit.com/courses/programming/topics/strings/problems/version/
 
 Compare two version numbers version1 and version2.
@@ -16,7 +16,7 @@ Here is an example of version numbers ordering:
 
 Solution:
 
-/**
+
  * @input A : String termination by '\0'
  * @input B : String termination by '\0'
  * 
