@@ -1,4 +1,4 @@
-Problem:
+/**Problem:
 	https://www.interviewbit.com/courses/programming/topics/strings/problems/lengthlast/
 	
 	Given a string s consists of upper/lower-case alphabets and empty space characters ' ', return the length of last word in the string.
@@ -6,7 +6,7 @@ Problem:
 	Note: A word is defined as a character sequence consists of non-space characters only.
 
 Solution:
-/**
+
  * @input A : Read only ( DON'T MODIFY ) String termination by '\0'
  * 
  * @Output Integer
