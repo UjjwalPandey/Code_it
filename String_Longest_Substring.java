@@ -1,4 +1,4 @@
-Problem:
+/*Problem:
 	https://www.interviewbit.com/courses/programming/topics/strings/problems/longestpalin/
 
 Given a string S, find the longest palindromic substring in S.
@@ -22,6 +22,7 @@ Output : "aaabaaa"
 ---------------------------------------------------------
 Solution:	Using DYNAMIC PROGRAMMING
 ---------------------------------------------------------
+*/
 	public class Solution {
    
 	public String longestPalindrome(String str) {
