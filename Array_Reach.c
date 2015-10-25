@@ -1,4 +1,4 @@
-Problem: 
+/*Problem: 
 https://www.interviewbit.com/courses/programming/topics/arrays/problems/reach/
 
 You are in an infinite 2D grid where you can move in any of the 8 directions :
@@ -23,7 +23,7 @@ It takes 1 step to move from (0, 0) to (1, 1). It takes one more step to move fr
 This question is intentionally left slightly vague. Clarify the question by trying out a few cases in the “See Expected Output” section.
 
 
-Solution:
+Solution: */
 /**
  * @input X : Integer array corresponding to the X co-ordinate
  * @input n1 : Integer array's ( X ) length
