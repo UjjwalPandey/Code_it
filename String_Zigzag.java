@@ -13,6 +13,7 @@ string convert(string text, int nRows);
 convert("PAYPALISHIRING", 3) should return "PAHNAPLSIIGYIR"
 
 Solution:
+*/
 	public class Solution {
 	public String convert(String a, int b) {
 	    int level = 0;
