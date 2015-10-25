@@ -1,3 +1,4 @@
+/**
 Problem:
 	https://www.interviewbit.com/courses/programming/topics/binary-search/problems/sqrt/
 Implement int sqrt(int x).
@@ -9,7 +10,7 @@ If x is not a perfect square, return floor(sqrt(x))
 
 SOLUTION:
 
-/**
+
  * @input A : Integer
  * 
  * @Output Integer
