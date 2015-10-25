@@ -1,4 +1,4 @@
-PROBLEM:
+/*PROBLEM:
 	https://www.interviewbit.com/courses/programming/topics/math/problems/arrange/
 Rearrange a given array so that Arr[i] becomes Arr[Arr[i]] with O(1) extra space.
 
@@ -11,7 +11,7 @@ Return : [0, 1]
 * N * N does not overflow for a signed integer 
 
 SOLUTION:
-
+*/
 	First Change each element to number+(A[A[i]]%n)%n and after this divide each number by n.
 	
 	void arrange(int* A, int n1) {
