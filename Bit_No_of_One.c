@@ -1,4 +1,4 @@
-Problem:
+/*Problem:
 	https://www.interviewbit.com/courses/programming/topics/bit-manipulation/problems/num1bits/?ref=dash-reco
 Write a function that takes an unsigned integer and returns the number of 1 bits it has.
 
@@ -12,7 +12,7 @@ so the function should return 3.
 
 
 Solution:
-
+*/
 /**
  * @input A : Integer
  * 
