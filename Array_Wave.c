@@ -1,4 +1,4 @@
-Problem:
+/*Problem:
 https://www.interviewbit.com/courses/programming/topics/arrays/problems/wave/
 
 Given an array of integers, sort the array into a wave like array and return it, 
@@ -13,7 +13,7 @@ Another possible answer : [4, 1, 3, 2]
  NOTE : If there are multiple answers possible, return the one thats lexicographically smallest. 
  
  Solution:
- 
+ */
  /**
  * @input A : Integer array
  * @input n1 : Integer array's ( A ) length
