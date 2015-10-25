@@ -1,4 +1,4 @@
-PROBLEM:
+/*PROBLEM:
 	https://www.interviewbit.com/courses/programming/topics/arrays/problems/positive/
 	
 Given an unsorted integer array, find the first missing positive integer.
@@ -16,7 +16,7 @@ Your algorithm should run in O(n) time and use constant space.
 
 
 
-SOLUTIONS:
+SOLUTIONS:*/
 /**
  * @input A : Integer array
  * @input n1 : Integer array's ( A ) length
