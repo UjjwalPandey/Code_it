@@ -1,7 +1,8 @@
+/**
 Solution:
 
 Time Complexity: O(n square)
-/**
+
  * @input A : Integer array
  * @input n1 : Integer array's ( A ) length
  * @input B : Integer
